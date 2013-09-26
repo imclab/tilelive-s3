@@ -3,7 +3,7 @@
     "version": "0.8.0",
     "dependencies": {
         "knox": "0.8.x",
-        "tilejson": "0.5.x"
+        "tilejson": "git+ssh://git@github.com:mapbox/node-tilejson.git#retry"
     },
     "devDependencies": {
         "mocha": "*"
